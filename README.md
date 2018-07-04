@@ -5,7 +5,8 @@ Quick config for running Run commands on Codeenvy
 - Make a project
 - In the top right where it says: 
 >**Ready** - start command
-click on it and select create new command. That will take you into the run command editor.
+click on it and select create new command.
+That will take you into the run command editor.
 - Follow the instructions below:
 
 ### "Command Line"
