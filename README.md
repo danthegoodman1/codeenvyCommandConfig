@@ -1,4 +1,4 @@
-# codeenvyCommandConfig
+# CodenvyCommandConfig
 Quick config for running Run commands on Codeenvy
 
 ### "Command Line"
@@ -17,6 +17,7 @@ I used that to expose an express server running on port 8080 to the internet. Yo
 
 `dev-machine:$PORT` where `$PORT` is the port you are running your service on. That will take your browser to the link that the app is running on and will continue to be that link until you stop the workspace.
 
-### Other notes about Codeevny:
+### Other notes about Codevny:
 - On macOS, using option works for deleting and moving by word, but using command only works for moving by line, not deleting line
 - Can use Command-S to save on macOS
+- Workspaces should stay alive as long as you leave them alive I believe unlike c9 or Codeanywhere
