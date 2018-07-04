@@ -17,6 +17,9 @@ If I wanted to run `hello.js` in the `testProj` project, I would have the comman
 
 `node testProj/hello.js`
 
+### Once you have create the command by saving it:
+Select the command by hitting the drop down arrow next to the play button in the top middle, select the command, and then you can fetch the preview URL to access it:
+
 ### Preview URL
 *Make sure that the project you want to run is enabled if you want it to be internet exposed*
 
