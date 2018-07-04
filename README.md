@@ -21,3 +21,4 @@ I used that to expose an express server running on port 8080 to the internet. Yo
 - On macOS, using option works for deleting and moving by word, but using command only works for moving by line, not deleting line
 - Can use Command-S to save on macOS
 - Workspaces should stay alive as long as you leave them alive I believe unlike c9 or Codeanywhere
+- Attempting Local IDE Mount/Sync can be found [here](https://codenvy.com/docs/user-guide/sync/index.html)
