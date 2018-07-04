@@ -2,12 +2,13 @@
 Quick config for running Run commands on Codeenvy
 
 ### Once you create the workspace:
-- Make a project
-- In the top right where it says: 
+1 Make a project
+2 In the top right where it says: 
 >**Ready** - start command
 click on it and select create new command.
+
 That will take you into the run command editor.
-- Follow the instructions below:
+3 Follow the instructions below:
 
 ### "Command Line"
 You start in the /projects folder, which is the parent folder for all projects.
