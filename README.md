@@ -34,3 +34,4 @@ Select the command by hitting the drop down arrow next to the play button in the
 - Can use Command-S to save on macOS
 - Workspaces should stay alive as long as you leave them alive I believe unlike c9 or Codeanywhere
 - Attempting Local IDE Mount/Sync can be found [here](https://codenvy.com/docs/user-guide/sync/index.html)
+- By going into a workspace's settings, you can share the workspace with other people. I don't think you can see the same terminal, but you can watch each other code in close to real time.
