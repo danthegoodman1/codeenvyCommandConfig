@@ -17,15 +17,15 @@ If I wanted to run `hello.js` in the `testProj` project, I would have the comman
 
 `node testProj/hello.js`
 
-### Once you have create the command by saving it:
-Select the command by hitting the drop down arrow next to the play button in the top middle, select the command, and then you can fetch the preview URL to access it:
-
 ### Preview URL
 *Make sure that the project you want to run is enabled if you want it to be internet exposed*
 
 `http://${server.port.8080}`
 
-I used that to expose an express server running on port 8080 to the internet. You can get the actual URL that your project will be running on by running the command, then clicking the button in the very top right and clicking the one that says:
+I used that to expose an express server running on port 8080 to the internet.
+
+### Once you have created the command by saving it:
+Select the command by hitting the drop down arrow next to the play button in the top middle, select the command, and then you can fetch the preview URL to access it. You can get the actual URL that your project will be running on by running the command, then clicking the button in the very top right and clicking the one that says:
 
 `dev-machine:$PORT` where `$PORT` is the port you are running your service on. That will take your browser to the link that the app is running on and will continue to be that link until you stop the workspace.
 
