@@ -32,6 +32,7 @@ Select the command by hitting the drop down arrow next to the play button in the
 ### Other notes about Codevny:
 - On macOS, using option works for deleting and moving by word, but using command only works for moving by line, not deleting line
 - Can use Command-S to save on macOS
-- Workspaces should stay alive as long as you leave them alive I believe unlike c9 or Codeanywhere
+- Workspaces timeout after 10 minutes for the free version
 - Attempting Local IDE Mount/Sync can be found [here](https://codenvy.com/docs/user-guide/sync/index.html)
 - By going into a workspace's settings, you can share the workspace with other people. I don't think you can see the same terminal, but you can watch each other code in close to real time.
+- Team workspaces seem to be broken af right now, but normal sharing works fine
