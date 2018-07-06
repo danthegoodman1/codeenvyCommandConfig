@@ -36,3 +36,4 @@ Select the command by hitting the drop down arrow next to the play button in the
 - Attempting Local IDE Mount/Sync can be found [here](https://codenvy.com/docs/user-guide/sync/index.html)
 - By going into a workspace's settings, you can share the workspace with other people. I don't think you can see the same terminal, but you can watch each other code in close to real time.
 - Team workspaces seem to be broken af right now, but normal sharing works fine
+- Codenvy saves files as you edit them (automatically), so hitting command-s on normal files don't do much except force the save then and there (maybe you are faster than the system that determines whether to save or not idk)
